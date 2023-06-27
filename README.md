@@ -31,4 +31,4 @@ https://github.com/SilverWithA/mini_project_MLops/blob/main/documentation/conflu
   2. 특성에 대한 EDA 작성을 좀 더 자세히 하지 못한 아쉬움
   3. 유의미한 특성을 파악하고 그룹화 하여 좀 더 유의미한 특성으로 만들지 못한 아쉬움
   4. 모델의 완성도가 아쉬움 점수도 아쉽고 코드 구성도 아쉽다.
-     
+  5. 도메인에 대한 이해 부족으로 인하여 발생한 문제들이 아쉬움(일본의 쇼핑문화나 지역명등)
